@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<item android:id="@+id/Menu"
+    android:title="Go to menu"
+    app:showAsAction="never"/>
+
+    <item android:id="@+id/MenuHighScore"
+        android:title="High score"
+        app:showAsAction="never"/>
+</menu>
